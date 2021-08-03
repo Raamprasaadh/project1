@@ -1,2 +1,4 @@
 
-a simple project to practice basic git functionalities
+
+
+Simple project to practice basic git functionalities. change
